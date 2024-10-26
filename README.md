@@ -15,9 +15,9 @@ An Open Source alternative to NotebookLM's podcast feature: Transforming Multimo
 
 https://github.com/user-attachments/assets/f1559e70-9cf9-4576-b48b-87e7dad1dd0b
 
-Podcastfy is an open-source Python package that transforms multi-modal content (text, images) into engaging, multi-lingual audio conversations using GenAI. Input content include websites, PDFs, youtube videos as well as images.
+Podcastfy is an open-source Python package that transforms multi-modal content (text, images) into engaging, multi-lingual audio conversations using GenAI. Input content includes websites, PDFs, YouTube videos as well as images.
 
-Unlike UI-based tools focused primarily on note-taking or research synthesis (e.g. NotebookLM ❤️), Podcastfy focuses on the programmatic and bespoke generation of engaging, conversational transcripts and audio from a multitude of multi-modal sources enabling customization and scale.
+Unlike UI-based tools focused primarily on note-taking or research synthesis (e.g. NotebookLM ❤️), Podcastfy focuses on the programmatic and bespoke generation of engaging, conversational transcripts and audio from a multitude of multi-modal sources, enabling customization and scale.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=souzatharsis/podcastfy&type=Date&theme=dark)](https://api.star-history.com/svg?repos=souzatharsis/podcastfy&type=Date&theme=dark)
 
@@ -49,9 +49,9 @@ This sample collection is also [available at audio.com](https://audio.com/thatup
 
 ## Features ✨
 
-- Generate conversational content from multiple-sources and formats (images, websites, YouTube, and PDFs)
+- Generate conversational content from multiple sources and formats (images, websites, YouTube, and PDFs).
 - Customize transcript and audio generation (e.g. style, language, structure, length)
-- Create podcasts from pre-existing or edited transcripts
+- Create podcasts from pre-existing or edited transcripts.
 - Support for advanced text-to-speech models (OpenAI, ElevenLabs and Edge)
 - Support for running local llms for transcript generation (increased privacy and control)
 - Seamless CLI and Python package integration for automated workflows
@@ -60,16 +60,16 @@ This sample collection is also [available at audio.com](https://audio.com/thatup
 ## Updates 🚀
 
 ### v0.2.3 release
-- Add support for running LLMs locally
-- Enable config for running podcastfy with no API KEYs
+- Add support for running LLMs locally.
+- Enable config for running podcastfy with no API KEYs.
 - and [more...](https://github.com/souzatharsis/podcastfy/blob/main/CHANGELOG.md#023---2024-10-15)
 
 ### v0.2.2 release
 - Podcastfy is now multi-modal! Users can generate audio from images + text inputs!
 
 ### v0.2.0 release
-- Users can now customize podcast style, structure, and content
-- Integration with LangChain for better LLM management
+- Users can now customize podcast style, structure, and content.
+- Integration with LangChain for better LLM management.
 
 ## Quickstart 💻
 
@@ -109,7 +109,7 @@ Experience Podcastfy with our [HuggingFace](https://huggingface.co/spaces/thatup
 ## Customization 🔧
 
 Podcastfy offers a range of customization options to tailor your AI-generated podcasts:
-- Customize podcast [Conversation](usage/conversation_custom.md) (e.g. format, style, voices)
+- Customize podcast [conversation](usage/conversation_custom.md) (e.g. format, style, voices)
 - Choose to run [Local LLMs](usage/local_llm.md) (156+ HuggingFace models)
 - Set [System Settings](usage/config_custom.md) (e.g. output directory settings)
 
@@ -137,7 +137,7 @@ We welcome contributions! See [Guidelines](GUIDELINES.md) for more details.
 
 7. **News Briefings**: Commuters can stay informed about daily news during travel time with personalized audio news briefings compiled from their preferred sources.
 
-8. **Educational Content Creation**: Educators can enhance learning accessibility by providing audio versions of course materials, catering to students with different learning preferences.
+8. **Educational Content Creation**: Educators can enhance learning accessibility by providing audio versions of course materials catering to students with different learning preferences.
 
 9. **Book Summaries**: Avid readers can preview books efficiently through audio summaries, helping them make informed decisions about which books to read in full.
 
